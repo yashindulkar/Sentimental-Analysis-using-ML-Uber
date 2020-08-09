@@ -20,30 +20,30 @@
 
 ❗️  Packages
 
-![](https://github.com/yashindulkar/Face-Mask-Detection/blob/master/Images/Project%20Overview.PNG)
+![](https://github.com/yashindulkar/Sentimental-Analysis-using-ML-Uber/blob/master/Images/Packages.PNG)
 
 ❗️  Datasets
 
-![](https://github.com/yashindulkar/Face-Mask-Detection/blob/master/Images/Datasets.PNG)
+![](https://github.com/yashindulkar/Sentimental-Analysis-using-ML-Uber/blob/master/Images/Dataset.PNG)
 
 ❗️  Preprocessing
 
-![](https://github.com/yashindulkar/Face-Mask-Detection/blob/master/Images/Data%20Preprocessing.PNG)
+![](https://github.com/yashindulkar/Sentimental-Analysis-using-ML-Uber/blob/master/Images/Tokenizing.PNG)
 
 ❗️  Building Vocabulary with Google Word2Vec
 
-![](https://github.com/yashindulkar/Face-Mask-Detection/blob/master/Images/CNN%20Architecture.PNG)
+![](https://github.com/yashindulkar/Sentimental-Analysis-using-ML-Uber/blob/master/Images/Building%20Vocab.PNG)
 
 ❗️  Accuracy with Logistic Regression
 
-![](https://github.com/yashindulkar/Face-Mask-Detection/blob/master/Images/Project%20Overview.PNG)
+![](https://github.com/yashindulkar/Sentimental-Analysis-using-ML-Uber/blob/master/Images/LR.PNG)
 
 ❗️  Accuracy with Multinomial Naive Bayes
 
-![](https://github.com/yashindulkar/Face-Mask-Detection/blob/master/Images/Datasets.PNG)
+![](https://github.com/yashindulkar/Sentimental-Analysis-using-ML-Uber/blob/master/Images/MNB.PNG)
 
 ❗️  Accuracy with Random Forest
 
-![](https://github.com/yashindulkar/Face-Mask-Detection/blob/master/Images/Data%20Preprocessing.PNG)
+![](https://github.com/yashindulkar/Sentimental-Analysis-using-ML-Uber/blob/master/Images/RF.PNG)
 
 
